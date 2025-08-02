@@ -158,3 +158,9 @@ This project is created for educational and personal use.
 ---
 
 **Expense Tracker** - Your personal finance companion 📱💰 
+<img width="766" height="1570" alt="image" src="https://github.com/user-attachments/assets/465a1500-2fbe-4daa-8d36-b68b7384242e" />
+<img width="758" height="1576" alt="image" src="https://github.com/user-attachments/assets/9b2bfba8-5829-41cd-b44c-86e3452cba11" />
+<img width="766" height="1570" alt="image" src="https://github.com/user-attachments/assets/dfa70ad5-15ff-4c5c-b13e-6085d1858461" />
+
+<img width="766" height="1570" alt="image" src="https://github.com/user-attachments/assets/fb5a8343-89f7-46f1-97dc-19b1c0acfafa" />
+
